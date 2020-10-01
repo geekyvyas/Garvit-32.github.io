@@ -145,7 +145,7 @@ a:hover {
 /*--/ Title s /--*/
 
 .title-s {
-    font-weight: 601;
+    font-weight: 600;
     color: #1e1e1e;
     font-size: 1.1rem;
 }
@@ -1191,7 +1191,7 @@ a:hover {
 footer {
     text-align: center;
     color: #fff;
-    padding: 24px 0;
+    padding: 25px 0;
     background: #141C3A;
 }
 
